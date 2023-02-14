@@ -1,0 +1,27 @@
+{
+  "name": "@maze.st/hexa.one",
+  "version": "3.0.0",
+  "description": "A simple NodeJS module to interact with [HEXA.ONE](https://hexa.one) endpoints.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maze-st/hexa.one-npm.git"
+  },
+  "author": "MAZE Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maze-st/hexa.one-npm/issues"
+  },
+  "homepage": "https://maze.st",
+  "dependencies": {
+    "got": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
